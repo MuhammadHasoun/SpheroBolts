@@ -32,6 +32,7 @@ In onze spherov3-code hebben we twee klassen:
 
 # Voorbeeld:
 <img width="191" alt="image" src="https://github.com/MuhammadHasoun/SpheroBolts/assets/159450804/384fb759-c3d1-4f36-a8c5-4fb1dd990db7">
+<img width="391" alt="image" src="https://github.com/MuhammadHasoun/SpheroBolts/assets/159450804/37b89a2f-9d92-4758-b561-d659c2b28a07">
 
      
 
