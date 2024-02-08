@@ -1,2 +1,7 @@
 # SpheroBolts
-coden waar mensen mij verbinding kunnen maken met sphero bolts om te besturen 
+Code waarmee mensen verbinding kunnen maken met Sphero Bolts om ze te besturen.
+
+
+
+
+
