@@ -1,4 +1,4 @@
-# SpheroBolts
+<img width="196" alt="image" src="https://github.com/MuhammadHasoun/SpheroBolts/assets/159450804/07ffc8ca-9860-48fb-9427-e1d09edde650"># SpheroBolts
 Code waarmee mensen verbinding kunnen maken met Sphero Bolts om ze te besturen met python.
 
 # Benodigdheden
@@ -31,6 +31,7 @@ In onze spherov3-code hebben we twee klassen:
 
 
 # Voorbeeld:
+<img width="196" alt="image" src="https://github.com/MuhammadHasoun/SpheroBolts/assets/159450804/ac3180ba-fc93-4f43-a9cf-663e73298a74">
 
      
 
