@@ -13,6 +13,7 @@ We hebben code van een vorig project gebruikt en hebben het duidelijker gemaakt,
 
 # Functies
 In onze spherov3-code hebben we twee klassen:
+
 1.Scanner
 * Deze klasse bevat een scan-methode. Wanneer de methode wordt aangeroepen, krijg je alle bolts te zien.
 
