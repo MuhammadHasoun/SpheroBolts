@@ -6,10 +6,9 @@ Code waarmee mensen verbinding kunnen maken met Sphero Bolts om ze te besturen m
 2. pip install colorama
 
 # Belangrijk!
-"""""""""""
 Deze code is niet officieel van Sphero; dit hebben mijn teamgenoten en ik samen ontwikkeld.
 We hebben code van een vorig project gebruikt en hebben het duidelijker gemaakt, zodat iedereen de code begrijpt.
-"""""""""""
+
 *Zorg ervoor dat spherov3.py en sphero_constructors.py zich in dezelfde map bevinden waar je project wordt gemaakt.
 
 # Functies
