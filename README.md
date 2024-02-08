@@ -24,9 +24,13 @@ In onze spherov3-code hebben we twee klassen:
   
 2.spherov3_connector
 * Deze klasse bevat 4 functies:
+  
   1. .connect - Dit maakt verbinding met het MAC-adres van de bolt dat je hebt opgegeven. <mark>Argumenten(Mac_address)</mark>
+  
   2. .roll - Nadat je verbinding is gelukt, kun je met de 'roll'-functie je bolt besturen. Deze functie vereist twee verplichte argumenten (snelheid, richting), waarbij de snelheid aangeeft hoe snel de bolt moet rollen en de richting aangeeft waarheen de bolt moet rollen. Bijvoorbeeld: (50, 180) betekent dat de bolt met een snelheid van 50 naar 180 graden rolt, dus naar voren.
+
   3. .rest_yaw - Dit brengt de bolt terug naar de standaardpositie. -Geen Argumenten
+
   4. .disconnect - Sluit de verbinding met de bolt af. -Geen Argumenten
 
 
